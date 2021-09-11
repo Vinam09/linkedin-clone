@@ -1,0 +1,20 @@
+.headerTab{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color: gray;
+    cursor: pointer;
+}
+.headerTab:hover{
+    color: black;
+}
+.headerTab-title{
+    font-size: 12px;
+    font-weight: 400;
+}
+.headerTab-icon{
+    object-fit: contain;
+    height: 25px !important;
+    width: 25px !important;
+}

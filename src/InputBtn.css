@@ -1,0 +1,15 @@
+.input-btn{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: gray;
+    cursor: pointer;
+    padding: 5px;
+}
+.input-btn:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.input-btn >h4{
+    margin-left: 5px;
+}
