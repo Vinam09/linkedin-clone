@@ -5,10 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 App is currently deployed on firebase.
 
-*Note App is not optimized for smaller screens (Phones). 
+*Note App is not optimized for smaller screens.
 
 ### Technologies Used
-HTML, CSS, React, Redux, Firebase, Material UI.
+HTML, CSS, React, Redux, Firebase firestore, Firebase Authentication, Material UI.
 
 ### Try it out
 [Live Demo](https://linkedin-clone-8958e.web.app/)
