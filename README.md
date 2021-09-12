@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 App is currently deployed on firebase.
 
-*NOTE App is not optimized for smaller screens (Phones). The reason I built this was purely to learn Redux. 
+*Note App is not optimized for smaller screens (Phones). 
 
 ### Technologies Used
 HTML, CSS, React, Redux, Firebase, Material UI.
