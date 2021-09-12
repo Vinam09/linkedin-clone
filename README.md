@@ -1,4 +1,4 @@
-![Linkedin Clone App Demo](linkedin-clone/linkedin-clone.gif)
+![Linkedin Clone App Demo](./linkedin-clone.gif)
 
 ## Overview
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
