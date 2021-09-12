@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 App is currently deployed on firebase.
 
-*Note App is not optimized for smaller screens.
+*Note: App is not optimized for smaller screens.
 
 ### Technologies Used
 HTML, CSS, React, Redux, Firebase firestore, Firebase Authentication, Material UI.
